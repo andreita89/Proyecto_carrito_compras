@@ -1,0 +1,32 @@
+.header {
+  background: #0676d9;
+  height: 56px;
+  padding: 36px 128px;
+  display: flex;
+  justify-content: space-between;
+}
+.logo-title {
+  display: flex;
+  align-items: center;
+}
+.cart {
+  display: flex;
+  align-items: center;
+}
+.cart-items {
+  background-color: white;
+  padding: 8px;
+  border-radius: 36px;
+}
+.title {
+  color: white;
+  margin-right: 16px;
+}
+.logo {
+  width: 36px;
+}
+.total-item-label {
+  margin: 0;
+  width: 18px;
+  text-align: center;
+}
